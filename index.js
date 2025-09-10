@@ -15,14 +15,14 @@ console.log(versionControlExplanation);
 
 // 2. Explain what a Git repository is.
 // Write your answer as a string and store it in the variable below:
-let gitRepoExplanation = "";
+let gitRepoExplanation = "A Git repository is a storage space where Git tracks and manages all the files, changes, and history of a project";
 
 console.log("What is a Git repository?");
 console.log(gitRepoExplanation); 
 
 // 3. Name the benefits of using version control.
 // Write your answer as an array of strings below, with each string being a benefit.
-let versionControlBenefits = [];
+let versionControlBenefits = ["update files", "fix bugs", "run tests", "reset changes", "add features"];
 
 console.log("What are the benefits of using version control?");
 console.log(versionControlBenefits); 
